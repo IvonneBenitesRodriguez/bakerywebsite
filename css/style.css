@@ -5,10 +5,6 @@
     --deepsea-color: #2B3D59;
 }
 
-.text-light{
-    color: var(--secondary-color)!important;
-    font-size: 1.5em;
-}
 
 h2{
     color: var(--vibrant-color);
@@ -31,15 +27,7 @@ h3{
     font-size: 1.5rem;
 
 }
-p.text-color{
-    color: #f9fafa;
-    line-height: 27px;
-    opacity: 1;
-    letter-spacing: normal;
-    font-style:normal;
-    font-weight: 300;
 
-}
 
 .title{
     font-style:bold;
