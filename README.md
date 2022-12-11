@@ -3,6 +3,9 @@
 This is a landing page of a Bakery for a small business owners, they can offer their services, show their products, and get the customer to know them through the biography part. The customer also can contact the small business owners through the form placed in the contact part. 
 Customers can visualize the social networks.
 To make this project I used Bootstrap, HTML and CSS.
+
+Please visit this site :    https://ivonnebenitesrodriguez.github.io/bakerywebsite/
+
 ## Features
 
 Users can use the navigation bar to travel into the site. <br />
